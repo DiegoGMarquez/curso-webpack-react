@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "curso-webpack-react",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoGMarquez/curso-webpack-react.git"
+  },
+  "keywords": [],
+  "author": "Diego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoGMarquez/curso-webpack-react/issues"
+  },
+  "homepage": "https://github.com/DiegoGMarquez/curso-webpack-react#readme"
+}
